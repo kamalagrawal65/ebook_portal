@@ -1,0 +1,48 @@
+form{
+	margin-bottom:5%;	
+}
+.title_link:hover{
+	text-decoration:none;	
+}
+body{
+	margin:0px;
+	padding:0px;	
+}
+.main-result-box{
+	height:auto;
+	width:60%;
+	margin-top:2%;
+	border-left:2px solid #F60;
+	border-right:2px solid #F60;
+}
+.detail{
+	max-height:250px;
+	overflow:auto;
+	font-size:20px;
+	padding:10px;
+	padding-top:6px;
+	max-width:1000px;
+	text-align: justify;
+    border-radius:20px;
+}
+.detail:hover{
+	background-color:#c4c5eb;
+	border:1px solid #F60;	
+}.detcopy{
+	max-height:200px;
+	overflow:auto;
+	font-size:20px;
+	width:100%;
+}
+.index_no{
+	float:left;
+	display:inline-block;
+	margin-left:10px;
+	padding-top:10px;
+}
+.path{
+	font-size:15px;	
+}
+hr{
+	width:94%;	
+}
